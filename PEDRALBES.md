@@ -7,3 +7,4 @@ Aquest és el llistat de [professors](https://www.institutpedralbes.cat/) de l'i
 - Martin
 - Sebastian
 - Paco
+- Más cambios
