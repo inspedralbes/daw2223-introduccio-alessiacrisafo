@@ -8,3 +8,4 @@ Aquest és el llistat de [professors](https://www.institutpedralbes.cat/) de l'i
 - Sebastian
 - Paco
 - Más cambios
+- Test fetch
