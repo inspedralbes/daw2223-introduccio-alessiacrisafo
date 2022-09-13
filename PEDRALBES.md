@@ -5,3 +5,5 @@ Aquest és el llistat de [professors](https://www.institutpedralbes.cat/) de l'i
 - Àlvaro
 - Pol
 - Martin
+- Sebastian
+- Paco
